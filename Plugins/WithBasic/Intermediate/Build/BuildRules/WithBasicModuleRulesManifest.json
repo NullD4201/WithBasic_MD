@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"E:\\MetaVerse\\WithBasic_MD\\Plugins\\WithBasic\\Source\\WithBasic\\WithBasic.Build.cs",
+		"E:\\MetaVerse\\WithBasic_MD\\Plugins\\WithBasic\\Source\\ThirdParty\\WithBasicLibrary\\WithBasicLibrary.Build.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WithBasic.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\MetaVerse\WithBasic_MD\Intermediate\Build\Win64\WithBasic_MDEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"E:\MetaVerse\WithBasic_MD\Plugins\WithBasic\Intermediate\Build\Win64\UnrealEditor\Development\WithBasic\WithBasic.cpp.obj"
+"E:\MetaVerse\WithBasic_MD\Plugins\WithBasic\Intermediate\Build\Win64\UnrealEditor\Development\WithBasic\Default.rc2.res"
+/OUT:"E:\MetaVerse\WithBasic_MD\Plugins\WithBasic\Intermediate\Build\Win64\UnrealEditor\Development\WithBasic\UnrealEditor-WithBasic.lib"

@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WithBasic",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Jihoon Bae",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WithBasic",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
